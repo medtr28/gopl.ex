@@ -1,0 +1,8 @@
+0.64s    7898 https://golang.org
+1.07s    4154 http://gopl.io
+Get https://gdoc.org: net/http: TLS handshake timeout
+10.43s elapsed
+0.54s    7898 https://golang.org
+0.82s    6773 https://godoc.org
+1.25s    4154 http://gopl.io
+1.25s elapsed
